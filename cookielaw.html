@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Cookie Law</title>
+
+<style>
+	#cookie-law-div {
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		margin: 0;
+		padding: 1em;
+		width: 100%;
+		background: rgba( 0, 0, 0, .5 );
+		color: white;
+		font-size: 80%;
+	}
+	#cookie-law-div p {
+		margin: 0;
+		text-align: center;
+	}
+	#cookie-law-div button {
+		position: fixed;
+		right: 1em;
+		bottom: 1em;
+		background: transparent;
+		border: none;
+		color: white;
+		opacity: .66;
+		cursor: pointer;
+	}
+</style>
+
+</head>
+<body>
+
+
+	<h1>Sample texts</h1>
+
+	<h2>English</h2>
+
+	<p>This site uses cookies to make the site simpler.</p>
+
+	<p>We use cookies to ensure that we give you the best experience on our website. This includes cookies from third party social media websites if you visit a page which contains embedded content from social media. Such third party cookies may track your use of this website. We and our partners also use cookies to ensure we show you advertising that is relevant to you. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on this website.</p>
+
+
+	<h2>Spanish</h2>
+
+	<p>Utilizamos cookies para mejorar su experiencia. Al continuar acepta las cookies y nuestra política de cookies.</p>
+
+	<p>Esta web utiliza cookies propias y de terceros para ofrecerle una mejor experiencia y servicio y poder registrar el proceso de compra. Al navegar o utilizar nuestros servicios el usuario acepta el uso que hacemos de las cookies.</p>
+
+
+
+	<script>
+
+		cookieLaw =
+		{
+			dId: 'cookie-law-div',
+			bId: 'cookie-law-button',
+			iId: 'cookie-law-item',
+
+			show: function( params )
+			{
+				if ( localStorage.getItem( cookieLaw.iId ) ) return false;
+
+				var d = document.createElement('div'),
+					p = document.createElement('p');
+					b = document.createElement('button');
+
+				p.innerHTML = params.msg;
+
+				b.id = cookieLaw.bId;
+				b.innerHTML = params.ok;
+
+				d.id = cookieLaw.dId;
+				d.appendChild( p );
+				d.appendChild( b );
+
+				document.body.insertBefore( d, document.body.lastChild );
+
+				b.addEventListener( 'click', cookieLaw.hide, false );
+			},
+			hide: function()
+			{
+				document.getElementById( cookieLaw.dId ).outerHTML = '';
+				localStorage.setItem( cookieLaw.iId, '1' );
+			}
+		};
+
+		cookieLaw.show( {
+			msg: 'This site uses cookies to make the site simpler.',
+			ok: '&times;'
+		} );
+
+	</script>
+
+</body>
+</html>
