@@ -2,7 +2,13 @@
 Cookie Law simple script
 ===================================
 
-Works IE8+.
+One line of JavaScript that displays a Cookie Law message:
+
+![cookie-law-message](https://cloud.githubusercontent.com/assets/141241/11879577/7d24dd98-a4fc-11e5-80a3-cb0c285f00e6.png)
+
+- Works IE8+
+- Multilanguage support
+- Remembers when it has been closed
 
 Usage
 -----------------------------------
