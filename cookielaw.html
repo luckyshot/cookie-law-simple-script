@@ -5,6 +5,8 @@
 	<title>Cookie Law</title>
 
 <style>
+	/* Cookie Law */
+	
 	#cookie-law-div {
 		position: fixed;
 		bottom: 0;
@@ -37,6 +39,7 @@
 
 	<script>
 
+		// Cookie Law
 		cookieLaw =
 		{
 			dId: 'cookie-law-div',
@@ -45,10 +48,10 @@
 
 			show: function( params )
 			{
-				if ( localStorage.getItem( cookieLaw.iId ) ) return false;
+				if ( localStorage.getItem( cookieLaw.iId ) ) { return false; }
 
 				var d = document.createElement('div'),
-					p = document.createElement('p');
+					p = document.createElement('p'),
 					b = document.createElement('button');
 
 				p.innerHTML = params.msg;
