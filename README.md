@@ -31,6 +31,10 @@ We use cookies to ensure that we give you the best experience on our website. Th
 
 They force us to bother you with the obvious fact that this site uses cookies.
 
+We use our own and third-party cookies to improve our services and show you advertising related to your preferences by analyzing your browsing habits. If you continue surfing, we will consider you are accepting its use.
+
+We use cookies and other tracking technologies to improve your browsing experience on our site, show personalized content and targeted ads, analyze site traffic, and understand where our audience is coming from.
+
 
 ### Spanish
 
@@ -39,3 +43,5 @@ Utilizamos cookies para mejorar su experiencia. Al continuar acepta las cookies 
 Esta web utiliza cookies propias y de terceros para ofrecerle una mejor experiencia y servicio y poder registrar el proceso de compra. Al navegar o utilizar nuestros servicios el usuario acepta el uso que hacemos de las cookies.
 
 Nos obligan a molestarte con la obviedad de que este sitio usa cookies.
+
+Utilizamos cookies propias y de terceros para mejorar nuestros servicios y mostrarle publicidad relacionada con sus preferencias mediante el análisis de sus hábitos de navegación. Si continua navegando, consideramos que acepta su uso.
