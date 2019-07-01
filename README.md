@@ -35,6 +35,8 @@ We use cookies and other tracking technologies to improve your browsing experien
 
 We use our own and third-party cookies to improve our services and show you advertising related to your preferences by analyzing your browsing habits. If you continue surfing, we will consider you are accepting its use.
 
+We use cookies and similar technologies to measure traffic, repeat visitors and site performance. Learn more about cookies (including how to disable them). By clicking “I agree”, “X” or by continuing to use our site you consent to the use of cookies (unless you’ve disabled cookies).
+
 We use cookies to ensure that we give you the best experience on our website. This includes cookies from third party social media websites if you visit a page which contains embedded content from social media. Such third party cookies may track your use of this website. We and our partners also use cookies to ensure we show you advertising that is relevant to you. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on this website.
 
 
