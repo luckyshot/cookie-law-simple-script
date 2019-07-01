@@ -27,21 +27,30 @@ That's it.
 
 This site uses cookies to make the site simpler.
 
-We use cookies to ensure that we give you the best experience on our website. This includes cookies from third party social media websites if you visit a page which contains embedded content from social media. Such third party cookies may track your use of this website. We and our partners also use cookies to ensure we show you advertising that is relevant to you. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on this website.
-
 They force us to bother you with the obvious fact that this site uses cookies.
+
+This website uses cookies. Cookies remember you so we can give you a better online experience.
+
+We use cookies and other tracking technologies to improve your browsing experience on our site, show personalized content and targeted ads, analyze site traffic, and understand where our audience is coming from.
 
 We use our own and third-party cookies to improve our services and show you advertising related to your preferences by analyzing your browsing habits. If you continue surfing, we will consider you are accepting its use.
 
-We use cookies and other tracking technologies to improve your browsing experience on our site, show personalized content and targeted ads, analyze site traffic, and understand where our audience is coming from.
+We use cookies to ensure that we give you the best experience on our website. This includes cookies from third party social media websites if you visit a page which contains embedded content from social media. Such third party cookies may track your use of this website. We and our partners also use cookies to ensure we show you advertising that is relevant to you. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on this website.
+
+
+#### Affiliate link
+
+We are reader-supported. If you click on or buy something via a link on this page, we may earn a commission.
+
+You support our site by purchasing what we recommend.
 
 
 ### Spanish
 
+Nos obligan a molestarte con la obviedad de que este sitio usa cookies.
+
 Utilizamos cookies para mejorar su experiencia. Al continuar acepta las cookies y nuestra política de cookies.
 
 Esta web utiliza cookies propias y de terceros para ofrecerle una mejor experiencia y servicio y poder registrar el proceso de compra. Al navegar o utilizar nuestros servicios el usuario acepta el uso que hacemos de las cookies.
-
-Nos obligan a molestarte con la obviedad de que este sitio usa cookies.
 
 Utilizamos cookies propias y de terceros para mejorar nuestros servicios y mostrarle publicidad relacionada con sus preferencias mediante el análisis de sus hábitos de navegación. Si continua navegando, consideramos que acepta su uso.
