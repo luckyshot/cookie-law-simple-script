@@ -31,6 +31,8 @@ They force us to bother you with the obvious fact that this site uses cookies.
 
 This website uses cookies. Cookies remember you so we can give you a better online experience.
 
+We use cookies to give you the best possible experience. By continuing to visit or use our services, you agree to the use of cookies as described in our Cookie Policy.
+
 We use cookies and other tracking technologies to improve your browsing experience on our site, show personalized content and targeted ads, analyze site traffic, and understand where our audience is coming from.
 
 We use our own and third-party cookies to improve our services and show you advertising related to your preferences by analyzing your browsing habits. If you continue surfing, we will consider you are accepting its use.
