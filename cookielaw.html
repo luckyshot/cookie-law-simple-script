@@ -15,22 +15,20 @@
 		padding: 1em;
 		width: 100%;
 		background: rgba( 0, 0, 0, .5 );
-		color: white;
 		font-size: 80%;
 	}
 	#cookie-law-div p {
 		margin: 0;
 		text-align: center;
+		color: #fff;
 	}
 	#cookie-law-div button {
-		position: absolute;;
-		right: 0;
-		top: 0;
+		float: right;
 		line-height: 1;
 		font-size: 24px;
 		background: transparent;
 		border: none;
-		color: white;
+		color: #fff;
 		opacity: .66;
 		cursor: pointer;
 	}
@@ -62,8 +60,8 @@
 				b.innerHTML = params.ok;
 
 				d.id = cookieLaw.dId;
-				d.appendChild( p );
 				d.appendChild( b );
+				d.appendChild( p );
 
 				document.body.insertBefore( d, document.body.lastChild );
 
