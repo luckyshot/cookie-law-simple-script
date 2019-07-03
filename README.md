@@ -57,6 +57,8 @@ Nos obligan a molestarte con la obviedad de que este sitio usa cookies.
 
 Utilizamos cookies para mejorar su experiencia. Al continuar acepta las cookies y nuestra política de cookies.
 
+Este Sitio Utiliza Cookies. Utilizamos cookies propias y de terceros para mejorar nuestros servicios y mostrarle publicidad relacionada con sus preferencias mediante el análisis de sus hábitos de navegación.
+
 Esta web utiliza cookies propias y de terceros para ofrecerle una mejor experiencia y servicio y poder registrar el proceso de compra. Al navegar o utilizar nuestros servicios el usuario acepta el uso que hacemos de las cookies.
 
 Utilizamos cookies propias y de terceros para mejorar nuestros servicios y mostrarle publicidad relacionada con sus preferencias mediante el análisis de sus hábitos de navegación. Si continua navegando, consideramos que acepta su uso.
