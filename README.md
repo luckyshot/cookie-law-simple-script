@@ -9,6 +9,8 @@ One line of JavaScript that displays a Cookie Law message:
 - Works IE8+
 - Multilanguage support
 - Remembers when it has been closed
+- Pure JavaScript _(no need for jQuery, compatible with Angular, Vue, React, etc.)_
+- LocalStorage based
 
 Usage
 -----------------------------------
@@ -18,6 +20,20 @@ Paste this code just before the closing <code>&lt;/body&gt;</code> tag:
 <pre>&lt;style&gt;#cookie-law-div{z-index:10000000;position:fixed;bottom:0;left:0;margin:0;padding:1em;width:100%;background:rgba(0,0,0,.5);font-size:80%}#cookie-law-div p{margin:0;text-align:center;color:#fff}#cookie-law-div button{float:right;line-height:1;font-size:24px;background:0 0;border:none;color:#fff;opacity:.66;cursor:pointer}&lt;/style&gt;&lt;script&gt;cookieLaw={dId:"cookie-law-div",bId:"cookie-law-button",iId:"cookie-law-item",show:function(e){if(localStorage.getItem(cookieLaw.iId))return!1;var o=document.createElement("div"),i=document.createElement("p"),t=document.createElement("button");i.innerHTML=e.msg,t.id=cookieLaw.bId,t.innerHTML=e.ok,o.id=cookieLaw.dId,o.appendChild(t),o.appendChild(i),document.body.insertBefore(o,document.body.lastChild),t.addEventListener("click",cookieLaw.hide,!1)},hide:function(){document.getElementById(cookieLaw.dId).outerHTML="",localStorage.setItem(cookieLaw.iId,"1")}},cookieLaw.show({msg:"This site uses cookies to make the site simpler.",ok:"&times;"});&lt;/script&gt;</pre>
 
 That's it.
+
+
+## Multilanguage support
+
+There's several ways to approach this at `cookieLaw.show()`, a simple example:
+
+```JS
+let language = navigator.language.substr(0,2); // 'en'
+const cookieLawDict = {
+  en: 'This site uses cookies.',
+  es: 'Este sitio usa cookies.'
+};
+cookieLaw.show(cookieLawDict[ language ]);
+```
 
 
 
