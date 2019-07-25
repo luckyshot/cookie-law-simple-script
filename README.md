@@ -1,5 +1,5 @@
 
-Cookie Law simple script
+🍪 Cookie Law simple script
 ===================================
 
 One line of JavaScript that displays a Cookie Law message:
