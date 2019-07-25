@@ -57,6 +57,8 @@ We use cookies to understand how you use our site and provide the best browsing 
 
 We use cookies and similar technologies to measure traffic, repeat visitors and site performance. Learn more about cookies (including how to disable them). By clicking “I agree”, “X” or by continuing to use our site you consent to the use of cookies (unless you’ve disabled cookies).
 
+This website uses its own and third party cookies to ensure the best possible browsing experience, analyze browsers and offer content of your interest. If you allow it, press the ‘I agree’ Button. You can oppose to it at any time. For more information, see our Cookie Policy.
+
 We use cookies to ensure that we give you the best experience on our website. This includes cookies from third party social media websites if you visit a page which contains embedded content from social media. Such third party cookies may track your use of this website. We and our partners also use cookies to ensure we show you advertising that is relevant to you. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on this website.
 
 
@@ -78,3 +80,8 @@ Este Sitio Utiliza Cookies. Utilizamos cookies propias y de terceros para mejora
 Esta web utiliza cookies propias y de terceros para ofrecerle una mejor experiencia y servicio y poder registrar el proceso de compra. Al navegar o utilizar nuestros servicios el usuario acepta el uso que hacemos de las cookies.
 
 Utilizamos cookies propias y de terceros para mejorar nuestros servicios y mostrarle publicidad relacionada con sus preferencias mediante el análisis de sus hábitos de navegación. Si continua navegando, consideramos que acepta su uso.
+
+
+### Cookie emoji
+
+🍪
